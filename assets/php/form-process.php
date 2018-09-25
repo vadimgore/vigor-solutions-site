@@ -1,5 +1,6 @@
 <?php
 
+echo "Starting form processing"
 $errorMSG = "";
 
 // NAME
