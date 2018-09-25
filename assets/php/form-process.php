@@ -17,13 +17,14 @@ if (empty($_POST["email"])) {
     $email = $_POST["email"];
 }
 
+/*
 // MSG SUBJECT
 if (empty($_POST["msg_subject"])) {
     $errorMSG .= "Subject is required ";
 } else {
     $msg_subject = $_POST["msg_subject"];
 }
-
+*/
 
 // MESSAGE
 if (empty($_POST["message"])) {
